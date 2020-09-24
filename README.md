@@ -761,7 +761,8 @@ data on the United States. <o:p></o:p></span></p>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
 How to navigate this repository: Each section of the project has a folder: <o:p></o:p></span></p>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#GHG Data:
+Nicole's folder that has three additional folders; CSV, Noteboooks, and PNG. Within these folders, there are the different items needed to represent greenhouse gas emissions by economic sector. <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
