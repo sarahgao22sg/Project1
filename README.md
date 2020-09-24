@@ -15,16 +15,16 @@ xmlns="http://www.w3.org/TR/REC-html40">
   <o:Author>sylvester vredenburg</o:Author>
   <o:Template>Normal</o:Template>
   <o:LastAuthor>sylvester vredenburg</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>3</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>7</o:TotalTime>
   <o:Created>2020-09-24T15:38:00Z</o:Created>
-  <o:LastSaved>2020-09-24T15:41:00Z</o:LastSaved>
+  <o:LastSaved>2020-09-24T15:45:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>235</o:Words>
-  <o:Characters>1341</o:Characters>
-  <o:Lines>11</o:Lines>
-  <o:Paragraphs>3</o:Paragraphs>
-  <o:CharactersWithSpaces>1573</o:CharactersWithSpaces>
+  <o:Words>224</o:Words>
+  <o:Characters>1278</o:Characters>
+  <o:Lines>10</o:Lines>
+  <o:Paragraphs>2</o:Paragraphs>
+  <o:CharactersWithSpaces>1500</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -728,33 +728,59 @@ div.WordSection1
 
 <div class=WordSection1>
 
-<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>HEAD
-# Project1 # Role of Agriculture in Climate Change This project seeks to
-understand the complex relationship between agriculture and climate change.
-Agricultural production both contributes to climate change in the form of
-manufacturing and transportation, while also being directly affected by climate
-change&#18;s meteorological consequences. We first cleaned and examined
-available global agricultural production and emission data, then compared this
-to the weather patterns and crop production data on the United States. # How to
-navigate this repository: Each section of the project has a folder: #Sylvester
-code and output: This has a notebook called &#17;<span class=SpellE>climate_api_notebook.ipynb</span>&#18;
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
+Project1 <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
+Agriculture's Role in Climate change Project 1<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Group
+5: Nicole Pipkins, <span class=SpellE>Yushan</span> Sarah Gao, Roberto De La
+Torre, Sylvester Vredenburg, Sam <span class=SpellE>Jebreen</span> <span
+style='mso-spacerun:yes'>&nbsp;</span><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>This
+project seeks to understand the complex relationship between agriculture and
+climate change. Agricultural production both contributes to climate change in
+the form of manufacturing and transportation, while also being directly
+affected by climate change&#8217;s meteorological consequences. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>We
+first cleaned and examined available global agricultural production and
+emission data, then compared this to the weather patterns and crop production
+data on the United States. <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
+How to navigate this repository: Each section of the project has a folder: <o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#Sylvester
+code and output: This has a notebook called &#8216;<span class=SpellE>climate_api_notebook.ipynb</span>&#8217;
 which contains the code to create a sample of cities and request weather data
 for each city, merging them into a data frame and then exporting to csv. The
-notebook called &#17;<span class=SpellE>Plotting_notebook</span>&#18; contains
-all analysis done afterwards, creating visualizations based on the exported csv
-files and created the <span class=SpellE>gmaps</span> visualization of the city
-sample. The two were kept separate so that the plotting notebook could be run
-without the climate <span class=SpellE>api</span> key, but it will still
-require a google maps key. The &#17;data files&#18; folder contains the
-exported <span class=SpellE>csvs</span> and any other csv data used. The
-&#17;images&#18; folder contains screenshots of the created visualizations. <span
-class=GramE>The .<span class=SpellE>gitignore</span></span> prevents the
-&#17;config&#18; file from being pushed. # Agriculture's Role in Climate change
-Project 1-Group 5: Nicole Pipkins, <span class=SpellE>Yushan</span> Sarah Gao,
-Roberto De La Torre, Sylvester Vredenburg, Sam <span class=SpellE><span
-class=GramE>Jebreen</span></span><span class=GramE> <span
-style='mso-spacerun:yes'>&nbsp;</span>944</span>f9f84b8bb3a0914ddda70614f831fae3a938c
-<o:p></o:p></span></p>
+notebook called &#8216;<span class=SpellE>Plotting_notebook</span>&#8217;
+contains all analysis done afterwards, creating visualizations based on the
+exported csv files and created the <span class=SpellE>gmaps</span>
+visualization of the city sample. The two were kept separate so that the
+plotting notebook could be run without the climate <span class=SpellE>api</span>
+key, but it will still require a google maps key. The &#8216;data files&#8217;
+folder contains the exported <span class=SpellE>csvs</span> and any other csv
+data used. The &#8216;images&#8217; folder contains screenshots of the created
+visualizations. <span class=GramE>The .<span class=SpellE>gitignore</span></span>
+prevents the &#8216;config&#8217; file from being pushed. <o:p></o:p></span></p>
 
 </div>
 
