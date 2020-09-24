@@ -788,3 +788,5 @@ prevents the &#8216;config&#8217; file from being pushed. <o:p></o:p></span></p>
 </body>
 
 </html>
+Roberto De La Torre: Crop_data folder include a notebook called crops that has all the JSON files that I used to create the weather data dataframe. Data conversion to float,
+dataframe merging, and addional columns were  created on this file. Data exploration and graphs were also created on that notebook. A crop_clean notebook just include the csv files created on crop notebook and everything used for the presentation. Output_data folder include all csv and many images used in the presentation and some extra images. 
