@@ -764,6 +764,8 @@ How to navigate this repository: Each section of the project has a folder: <o:p>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#GHG Data:
 Nicole's folder that has three additional folders; CSV, Noteboooks, and PNG. Within these folders, there are the different items needed to represent greenhouse gas emissions by economic sector. <o:p></o:p></span></p>
 
+#Meat_Production folder by Yushan Sarah Gao. It contains two CSV on global meat production and global meat prdcution by types, notebook, and PNG of the graphs. 
+
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
