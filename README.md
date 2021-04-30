@@ -734,6 +734,8 @@ Project1 <o:p></o:p></span></p>
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>#
 Agriculture's Role in Climate change Project 1<o:p></o:p></span></p>
 
+![image](https://user-images.githubusercontent.com/68877571/116638632-597dbd80-a92c-11eb-9b72-8ad7f816f0f9.png)
+
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'>Group
